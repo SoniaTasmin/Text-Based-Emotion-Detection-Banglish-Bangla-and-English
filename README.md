@@ -3,7 +3,7 @@
 
 This project investigates text-based emotion classification in **Banglish (Romanized Bangla), Bangla, and English**, with particular attention to the challenges of developing labeled resources for low-resource languages. It includes the construction and annotation of a Banglish emotion dataset and experiments with traditional machine learning, deep neural networks, and BERT-based models.
 
-**[Read the research report (PDF)](docs/Text_Based_Emotion_Detection_Report.pdf)**
+**[Read the research report (PDF)](docs/Text_Based_Emotion_Detection.pdf)**
 
 ## Research Overview
 
@@ -157,4 +157,4 @@ The complete research report includes:
 - Experimental results and error analysis
 - Conclusion and references
 
-**[View Research Report (PDF)](docs/Text_Based_Emotion_Detection_Report.pdf)**
+**[View Research Report (PDF)](docs/Text_Based_Emotion_Detection.pdf)**
